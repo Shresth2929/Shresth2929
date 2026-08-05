@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋 I'm Shresth Veer Singh
 
-<!--
-**Shresth2929/Shresth2929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I enjoy building scalable web applications that solve real-world problems using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on
+
+- Full Stack Development
+- AI-powered Applications
+- Backend Engineering
+- REST APIs
+- Cloud Deployment
+- Data Structures & Algorithms
+
+---
+
+## Tech Stack
+
+### Languages
+Java • JavaScript • TypeScript • Python • C++
+
+### Frontend
+React.js • Next.js • HTML • CSS • Tailwind CSS • Zustand • React Query • Framer Motion
+
+### Backend
+Node.js • Express.js • REST APIs • JWT Authentication
+
+### Database
+PostgreSQL • MongoDB • MySQL • Prisma ORM
+
+### Cloud & DevOps
+Docker • Docker Compose • AWS • Vercel • Cloudinary • Git
+
+---
+
+## Featured Projects
+
+### BluePrint AI
+AI-powered SaaS platform that converts architectural floor plans into realistic 3D visualizations.
+
+### InvestOracle AI
+Investment research platform integrating AI workflows, financial APIs, dashboards and report generation.
+
+### Tunify
+AI-powered music streaming platform featuring authentication, playlists and personalized recommendations.
+
+---
+
+## Currently Learning
+
+- Advanced Backend Development
+- System Design
+- Data Structures & Algorithms
+- Scalable Software Architecture
+
+---
+
+### Let's Connect
+
+LinkedIn:
+<https://www.linkedin.com/in/shresth-veer-singh-598830291/>
+
+Portfolio:
+<https://portfolio-three-sand-77.vercel.app/>
+
+Email:
+<shresthveer0408@gmail.com>
+
+Phone:
+<7800794876>
