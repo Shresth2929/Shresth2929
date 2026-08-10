@@ -68,7 +68,7 @@ Currently, I'm focused on improving my backend engineering skills, system design
 
 # 🚀 Featured Projects
 
-## 🏗️ Blueprint AI
+## 🏗️ [Blueprint AI](https://github.com/Shresth2929/BluePrint-AI)
 An AI-powered architectural visualization SaaS platform that converts 2D floor plans into realistic architectural visualizations using Gemini AI.
 
 **Highlights**
@@ -93,7 +93,7 @@ An AI-powered architectural visualization SaaS platform that converts 2D floor p
 
 ---
 
-## 📈 InvestOracle AI
+## 📈 [InvestOracle AI](https://github.com/Shresth2929/InvestOracle-AI)
 An AI-powered investment research platform designed to generate intelligent investment reports using financial APIs and LLM workflows.
 
 **Highlights**
@@ -118,7 +118,7 @@ An AI-powered investment research platform designed to generate intelligent inve
 
 ---
 
-## 🎵 Tunify
+## 🎵 [Tunify](https://github.com/Shresth2929/tunify)
 A full-stack AI-powered music streaming platform featuring playlist management and personalized music recommendations.
 
 **Highlights**
