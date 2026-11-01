@@ -10,6 +10,7 @@ Building scalable web applications with modern technologies and AI-driven soluti
 I'm a Computer Science undergraduate passionate about building scalable full-stack applications and solving real-world problems through software.
 I enjoy designing modern user interfaces, developing secure backend systems, integrating AI into products, and deploying production-ready applications.
 Currently, I'm focused on improving my backend engineering skills, system design knowledge, and problem-solving abilities while continuously building practical projects.
+Portfolio: https://portfolio-three-sand-77.vercel.app/
 
 ---
 
